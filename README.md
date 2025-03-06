@@ -1,7 +1,14 @@
-## Hi there 👋
+## ¡Hola! 👋 Soy Alex.
+### Soy Papá, Técnico en Emergencias Sanitarias 🚑 y un apasionado de la tecnología.
+
+Actualmente, estoy estudiando un Grado Superior en 🌐 Desarrollo de Aplicaciones Web 🌐.
+
+
+
+Idiomas:
+🇷🇴 | 🇪🇸 | 🇺🇸
 
 <!--
-**MarGizAle/margizale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
